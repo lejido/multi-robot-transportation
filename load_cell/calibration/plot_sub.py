@@ -1,5 +1,3 @@
-# should be in catkin workspace 
-
 #!/usr/bin/env python
 
 import rospy 
