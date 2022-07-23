@@ -1,6 +1,6 @@
 # mulit-robot-transportation
 
-![](/image/sample.png)
+![multiple robot transportation](/images/cover.png)
 
 # load cell
 
